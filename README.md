@@ -1,5 +1,9 @@
 The code for a VGA Display Driver implemented on a Basys-3 FPGA board.
 
+[![Watch the video](https://img.youtube.com/vi/_uyXGN6lxjc/hqdefault.jpg)](https://www.youtube.com/embed/_uyXGN6lxjc)
+
+[<img src="https://img.youtube.com/vi/_uyXGN6lxjc/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/_uyXGN6lxjc)
 
 This code, when uploaded to a Basys-3 board can display a selection of 4 shapes at 4 different colors. The shape and the color can be selected with the first 4 switches on the board and the position of the shape can be changed with the four direction buttons.
 
